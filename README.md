@@ -8,23 +8,9 @@ Also, I completed Henry's coding bootcamp where I developed an ecommerce app and
 
 Looking forward to build great products as a Front-End developer.
 
-My tech stack:
-
-- JavaScript
-- React
-- React Native
-- Redux
-- Node
-- Express
-- HTML5
-- CSS
-- PostgreSQL
-- Bootstrap
-- Ruby on Rails
+My tech stack: JavaScript / React / React Native / Redux / Node / Express / HTML5 / CSS / PostgreSQL / Bootstrap / Ruby on Rails
 
 Contact:
 
 - Email: juanceschin@gmail.com
 - LinkedIn: https://www.linkedin.com/in/juan-ceschin/
-
-
