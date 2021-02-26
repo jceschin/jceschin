@@ -8,6 +8,12 @@ Also, I completed Henry's coding bootcamp where I developed an ecommerce app and
 
 Looking forward to build great products as a Front-End developer.
 
+My featured projects:
+
+1. MOBA
+2. sellphones-ecommerce
+3. dieta-en-piloto-atm
+
 My tech stack: JavaScript / React / React Native / Redux / Node / Express / HTML5 / CSS / PostgreSQL / Bootstrap / Ruby on Rails
 
 Contact:
