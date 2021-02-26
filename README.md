@@ -10,7 +10,7 @@ Looking forward to build great products as a Front-End developer.
 
 My featured projects:
 
-1. MOBA
+1. moba
 2. sellphones-ecommerce
 3. dieta-en-piloto-atm
 
