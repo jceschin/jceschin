@@ -6,7 +6,7 @@ After 3 years working in Management Consulting, I decided to learn to code due t
 
 Also, I completed Henry's coding bootcamp where I developed an ecommerce app and a virtual wallet using JavaScript, React, React Native, Redux, NodeJS, Express and PostgreSQL, among other technologies.
 
-Looking forward to build great products as a Front-End developer.
+Looking forward to build great products as a Full Stack or Front-End developer.
 
 My featured projects:
 
