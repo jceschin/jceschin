@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Juan Ceschin Guntsche. I'm a Full Stack Developer & Industrial Engineer.
+My name is Juan Ceschin Guntsche. Full Stack Developer & Industrial Engineer. I'm an EU citizen living in Buenos Aires, Argentina.
 
 After 3 years working in Management Consulting, I decided to learn to code due to my strong interest in the tech industry. I joined Le Wagon coding bootcamp where I built a Web-App that suggests meals to users according to their daily nutrient targets.
 
