@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Juan Ceschin Guntsche. Full Stack Developer & Industrial Engineer. I'm an EU citizen living in Buenos Aires, Argentina. Currently working as a Frontend developer in Karvi.
+My name is Juan Ceschin Guntsche. Full Stack Developer & Industrial Engineer. I'm an EU citizen living in Buenos Aires, Argentina. Currently working as a Frontend developer at Karvi.
 
 My featured personal projects:
 
