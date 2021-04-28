@@ -1,20 +1,14 @@
 ### Hi there! 👋
 
-My name is Juan Ceschin Guntsche. Full Stack Developer & Industrial Engineer. I'm an EU citizen living in Buenos Aires, Argentina.
+My name is Juan Ceschin Guntsche. Full Stack Developer & Industrial Engineer. I'm an EU citizen living in Buenos Aires, Argentina. Currently working as a Frontend developer in Karvi.
 
-After 3 years working in Management Consulting, I decided to learn to code due to my strong interest in the tech industry. I joined Le Wagon coding bootcamp where I built a Web-App that suggests meals to users according to their daily nutrient targets.
-
-Also, I completed Henry's coding bootcamp where I developed an ecommerce app and a virtual wallet using JavaScript, React, React Native, Redux, NodeJS, Express and PostgreSQL, among other technologies.
-
-Looking forward to build great products as a Full Stack or Front-End developer.
-
-My featured projects:
+My featured personal projects:
 
 1. moba
 2. sellphones-ecommerce
 3. dieta-en-piloto-atm
 
-My tech stack: JavaScript / React / React Native / Redux / Node / Express / HTML5 / CSS / PostgreSQL / Bootstrap / Ruby on Rails 
+My tech stack: JavaScript / Typescript / React / React Native / Redux / Node / Express / HTML5 / CSS / PostgreSQL / Bootstrap / Ruby on Rails 
 
 Contact:
 
