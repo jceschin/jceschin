@@ -8,7 +8,7 @@ My featured personal projects:
 2. sellphones-ecommerce
 3. dieta-en-piloto-atm
 
-My tech stack: JavaScript / Typescript / React / React Native / Redux / Node / Express / HTML5 / CSS / PostgreSQL / Bootstrap / Ruby on Rails 
+My tech stack: JavaScript / Typescript / React / Tailwind CSS / React Native / Redux / Node / Express / HTML5 / CSS / PostgreSQL / Bootstrap / Ruby on Rails 
 
 Contact:
 
